@@ -15,7 +15,7 @@ O **Git Find** é um projeto que permite buscar perfis de usuários no GitHub e 
 
 ### 🛠️ **Tecnologias Utilizadas**
 - ⚛️ **React.js** – Para construção da interface.  
-- 🎨 **CSS (ou Tailwind/Styled Components, caso use algum deles)** – Para estilização responsiva.  
+- 🎨 **CSS – Para estilização responsiva.  
 - 🔗 **GitHub API** – Para obter informações sobre os usuários.  
 - 📦 **Axios** – Para fazer requisições HTTP.  
 
