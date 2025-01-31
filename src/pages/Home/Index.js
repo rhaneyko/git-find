@@ -64,9 +64,9 @@ function App() {
           {repos?.lenght ? (
             <div>
               <h4 className="repositorio">Repositórios</h4>
-              {repos.map((repo) => {
-                <ItemList title={repo.name} description={repo.description} />;
-              })}
+              {repos.map((repo) => (
+                <ItemList key={repo.id} title={repo.name} description={repo.description} />
+              ))}
             </div>
           ) : null}
         </div>
