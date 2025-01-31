@@ -10,12 +10,12 @@ O **Git Find** é um projeto que permite buscar perfis de usuários no GitHub e 
 - 🔍 Pesquisa de usuários do GitHub pelo nome de usuário.  
 - 📂 Exibição dos principais repositórios públicos do usuário.  
 - 👥 Informações sobre seguidores e seguidos.  
-- 🌍 Localização e bio (se disponível).  
+- 🌍 Localização e bio.  
 - ⭐ Exibição do número de estrelas dos repositórios.  
 
 ### 🛠️ **Tecnologias Utilizadas**
 - ⚛️ **React.js** – Para construção da interface.  
-- 🎨 **CSS – Para estilização responsiva.  
+- 🎨 **CSS** – Para estilização responsiva.  
 - 🔗 **GitHub API** – Para obter informações sobre os usuários.  
 - 📦 **Axios** – Para fazer requisições HTTP.  
 
