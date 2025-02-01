@@ -42,7 +42,7 @@ function App() {
               onChange={(event) => setUser(event.target.value)}
             />
 
-            <button onClick={handleGetData}>Buscas</button>
+            <button onClick={handleGetData}>Buscar</button>
           </div>
           {currentUser?.name ? (
             <>
